@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Online Shopping App</string>
+    <string name="intro_title">Let\'s Find the Best &amp; Healthy Grocery</string>
+    <string name="intro_login">Already have an account? Sign In</string>
+</resources>
